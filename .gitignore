@@ -1,0 +1,15 @@
+.DS_Store
+.image-slots.state.json
+.env
+.env.*
+!.env.example
+node_modules/
+npm-debug.log*
+*.zip
+data/
+
+# Local design/source artifacts, not needed by the public static site.
+screenshots/
+uploads/
+assets/accred-src.png
+assets/istec-ceremony-background.png
