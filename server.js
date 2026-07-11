@@ -38,7 +38,7 @@ const MODES = {
   graduation: '毕业典礼'
 };
 
-const GENERAL_TAGS = '#ISTEC #ISTEC商学院 #布克硕博 #DBA #工商管理博士';
+const GENERAL_TAGS = '#ISTEC商学院 #ISTEC #在职博士 #DBA #博士 #工商管理博士';
 
 const AI_PROMPT_RULES = [
   '标题必须控制在18-20个字之间，使用自然、有吸引力的小红书风格，不设固定句式，标题中不要放话题标签，生成前自行检查字数。',
